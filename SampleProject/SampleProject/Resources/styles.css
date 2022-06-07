@@ -1,0 +1,18 @@
+body {
+    font-size: large;
+    font-family: "Helvetica";
+    font-weight: 20;
+    text-align: justify;
+    margin: 20;
+}
+
+a {
+    text-decoration: none;
+    color: #009FBF !important;
+}
+
+img {
+    margin: 20;
+}
+
+
